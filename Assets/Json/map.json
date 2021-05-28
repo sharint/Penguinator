@@ -1,0 +1,67 @@
+{
+  "width": 3,
+  "height": 3,
+  "walls": [
+    {
+      "top": false,
+      "bot": true,
+      "left": true,
+      "right": false
+    },
+    {
+      "top": false,
+      "bot": false,
+      "left": true,
+      "right": false
+    },
+    {
+      "top": true,
+      "bot": false,
+      "left": true,
+      "right": false
+    },
+    {
+      "top": false,
+      "bot": true,
+      "left": false,
+      "right": false
+    },
+	{
+      "top": false,
+      "bot": false,
+      "left": false,
+      "right": false
+    },
+	{
+      "top": true,
+      "bot": false,
+      "left": false,
+      "right": false
+    },
+	{
+      "top": false,
+      "bot": true,
+      "left": false,
+      "right": true
+    },
+	{
+      "top": false,
+      "bot": false,
+      "left": false,
+      "right": true
+    },
+	{
+      "top": true,
+      "bot": false,
+      "left": false,
+      "right": true
+    }
+  ],
+  "playerPosition": 1,
+  "blocksPositions": [
+    5
+  ],
+  "finishPositions": [
+    3
+  ]
+}
